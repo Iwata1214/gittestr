@@ -2,4 +2,4 @@
 
 this is example repository for NITKC roboken 2018s.
 
-あ〜マージしてえな〜
+マージされちゃった
