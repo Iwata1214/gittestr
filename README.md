@@ -1,3 +1,3 @@
-# roboken
+# roboken - git example
 
-hahaha
+this is example repository for NITKC roboken 2018s
